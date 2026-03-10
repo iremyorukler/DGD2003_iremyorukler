@@ -1,0 +1,11 @@
+Model Information:
+* title:	Planks Of Wood
+* source:	https://sketchfab.com/3d-models/planks-of-wood-2341e9c2456f4876b2e86a9465724b0d
+* author:	andres Hiciano (https://sketchfab.com/andreshc3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Planks Of Wood" (https://sketchfab.com/3d-models/planks-of-wood-2341e9c2456f4876b2e86a9465724b0d) by andres Hiciano (https://sketchfab.com/andreshc3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
